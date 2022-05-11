@@ -1,0 +1,2 @@
+# Netflix-Movies-TV-shows-Analysis-ML-Stay-Tuned
+Netflix, Inc. is an American subscription streaming service and production company. Launched on August 29, 1997, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals and In this dataset, we will deal with more information related to those films or series and the country that produced these works
